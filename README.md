@@ -22,6 +22,6 @@ Set of fully connected layers
 
 Furthermore, in each layer, we include a forward pass and a backpropagation to simplify the computation. Specifcally, after performing a forward pass, we want to use backpropagation to compute loss function gradient w.r.t its weight, and then we update the weight using gradient descent. The method of backpropagation allows us to achieve faster derivatives computation and narrow the difference between desired output and achieved model's outpur as much as possible.
 
-Google Colab URL: https://colab.research.google.com/drive/1OMEXXLKbLg370KluWM0khPDfPwVW98de#scrollTo=gvo2H2BCNTqN
+Google Colab: https://colab.research.google.com/drive/1Adu093zFsgXCmbwgQWXeKlkD-ILiCKgb?authuser=1
 
 
